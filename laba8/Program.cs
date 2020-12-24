@@ -8,7 +8,7 @@ namespace laba8
         {
             Console.WriteLine("Знакомство с Github");
             Console.WriteLine("Проверка командной работы");
-            Console.WriteLine("Изменения на сервере");
+            Console.WriteLine("Правка в команде");
         }
     }
 }

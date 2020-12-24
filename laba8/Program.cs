@@ -6,8 +6,8 @@ namespace laba8
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
-            Console.WriteLine("Проверка изменений на сервере");
+            Console.WriteLine("Знакомство с Github");
+            Console.WriteLine("Проверка командной работы");
         }
     }
 }

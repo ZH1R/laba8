@@ -12,6 +12,7 @@ namespace laba8
             Console.WriteLine("Правка в команде");
             Console.WriteLine("Изменения на сервере");
             Console.WriteLine("Правка в команде");
+             Console.WriteLine("Изменения на сервере");
 
 
         }

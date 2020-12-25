@@ -10,6 +10,7 @@ namespace laba8
             Console.WriteLine("Проверка командной работы");
             Console.WriteLine("Правка в команде");
             Console.WriteLine("Правка в команде");
+            Console.WriteLine("Изменения на сервере");
 
         }
     }
